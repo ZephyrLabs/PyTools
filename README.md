@@ -1,5 +1,5 @@
 # PyTools
-multiple python tools
+multiple python and linux tools/scripts
  
 KaliTools.py has been deprecated,
 please look towards using the newer Kali2ools.sh for easier conversion of debian to Kali linux
