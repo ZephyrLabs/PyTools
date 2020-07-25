@@ -10,5 +10,5 @@ Use a debian image (4.9 or mainline 5.x)
 ```
 git clone https://github.com/ZephyrLabs/PyTools.git
 cd PyTools
-python3 KaliTools.py / ./Kali2ools.sh
+python3 KaliTools.py (or) ./Kali2ools.sh
 ```
