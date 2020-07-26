@@ -8,8 +8,10 @@ if (( $EUID != 0 )); then
   exit
 fi
 
+### starting up... ###
 echo "Initializing the conversion, This might take a while... till then sit back and relax, we have you covered :)"
 sleep 3
+
 ### Install needed packages ###
 apt-get update
 apt-get install -y dirmngr
