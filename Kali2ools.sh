@@ -50,8 +50,9 @@ apt-get clean
 
 ### clean the terminal ###
 clear
-
 echo "all done."
+
+### finishing it all up ###
 echo -e "please reboot the system, would you like it now ? [Y/N]"
 read $c
 
