@@ -9,7 +9,7 @@ if (( $EUID != 0 )); then
 fi
 
 ### starting up... ###
-echo "Initializing the conversion, This might take a while... till then sit back and relax, we have you covered :)"
+echo "Initializing the conversion, This might take a while... till then sit back and relax, we have you covered (⌐■_■)"
 sleep 3
 
 ### Install needed packages ###
